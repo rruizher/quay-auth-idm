@@ -2,7 +2,7 @@ AUTHENTICATION_TYPE: LDAP
 FEATURE_USER_INITIALIZE: true
 BROWSER_API_CALLS_XHR_ONLY: false
 SUPER_USERS:
-- quayadmin
+- cloudadmin
 FEATURE_USER_CREATION: true
 LDAP_ADMIN_DN: uid=admin,cn=users,cn=accounts,dc=ocp4,dc=example,dc=com
 LDAP_ADMIN_PASSWD: Redhat123@!
